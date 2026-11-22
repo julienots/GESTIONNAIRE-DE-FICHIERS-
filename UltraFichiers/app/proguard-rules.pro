@@ -1,0 +1,3 @@
+-keep class com.superessence.ultrafichiers.work.** { *; }
+-dontwarn org.checkerframework.**
+-dontwarn com.google.errorprone.**
